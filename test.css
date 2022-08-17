@@ -1,0 +1,60 @@
+/* -------------------- html -------------------- */
+
+.html{
+  scroll-behavior: smooth;
+}
+
+/* -------------------- wrapper -------------------- */
+.header {
+  color: pink;
+  width: 100%;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+/* -------------------- content -------------------- */
+
+.content {
+  background-color: aqua;
+  position: static;
+  left: 0px;
+  width: 100%;
+}
+
+#layout1 {
+  position: absolute;
+  background-color: red;
+  left: 0px;
+  top: 30px;
+}
+
+.layout2 {
+  position: absolute;
+  background-color: yellow;
+  left: 50px;
+}
+
+.layout3 {
+  position: absolute;
+  background-color: blue;
+  left: 100px;
+}
+
+.layout4 {
+  position: absolute;
+  background-color: gray;
+  left: 150px;
+}
+
+/* -------------------- footer -------------------- */
+
+.footer {
+  clear: both;
+  background-color: greenyellow;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
